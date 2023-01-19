@@ -19,8 +19,8 @@
     flex-wrap: wrap;
 
     /* Regole per dare margine negativo alla riga */
-    /* margin-left: calc(var(--gutter-x) / 2);
-    margin-right: calc(var(--gutter-x) / 2); */
+    /* margin-left: calc(var(--gutter-x) / 2 -1);
+    margin-right: calc(var(--gutter-x) / 2 -1); */
 }
 
 /* DIMENSIONI COLONNE FLESSIBILI, che prende spazio libero o se lo divide in automatico */
