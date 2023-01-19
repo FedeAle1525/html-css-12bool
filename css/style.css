@@ -4,7 +4,7 @@
 }
 
 .section{
-    padding: 10px 0;
+    padding-bottom: 20px;
 }
 
 [class*="col-"]{
